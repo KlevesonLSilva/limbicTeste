@@ -13,7 +13,6 @@ import {MatListModule} from '@angular/material/list';
     MatButtonModule,
     MatIconModule,
     MatListModule,
-
   ],
     templateUrl: './sidebar.component.html',
     styleUrl: './sidebar.component.css'

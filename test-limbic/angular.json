@@ -23,8 +23,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "src/assets",
-                "output": "/assets/"
+                "input": "src/image",
+                "output": "/image/"
               },
               {
                 "glob": "favicon.ico",
@@ -94,8 +94,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "src/assets",
-                "output": "/assets/"
+                "input": "src/image",
+                "output": "/image/"
               },
               {
                 "glob": "favicon.ico",
