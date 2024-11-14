@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+
